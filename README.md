@@ -1,4 +1,4 @@
-Smart Traffic System
+TRAFFIxVISION
 
 ## Background
 **Traffic Management refers to the combination of measures that serve to preserve traffic capacity and improve the security, safety and reliability of the overall road transport system. These measures make use of ITS systems, services and projects in day-to-day operations that impact on road network performance. Proper traffic management can ensure that**
@@ -108,7 +108,4 @@ Run Locally
 ```bash
   streamlit run Introduction.py
 ```
-Contributed by 
-Aryan Singh
-
-Raghav Khandelwal
+CHANDRA RAJ SINGH
